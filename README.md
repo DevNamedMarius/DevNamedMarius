@@ -1,6 +1,1 @@
-Hey!
-Ich bin Marius aka Marius_2_0!
-Ich lerne derzeit verschiedenste Programmiersprachen! Darunter:
--JS
--Python
--LUA
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNamedMarius)](https://github.com/anuraghazra/github-readme-stats)
